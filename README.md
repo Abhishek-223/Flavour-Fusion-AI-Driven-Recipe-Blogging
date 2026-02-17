@@ -12,7 +12,7 @@ Flavour Fusion is an interactive Streamlit application that leverages the power 
 
 ## 🎥 Video Demo
 
-Watch the application in action: [Click here to watch the demo video](Your_Video_Link_Here)
+Watch the application in action: [Click here to watch the demo video](https://drive.google.com/file/d/19gdzkg9R3FgiyhT_-ng3N-vgmlHuZgl5/view?usp=sharing)
 
 ## 🛠️ Tech Stack
 
